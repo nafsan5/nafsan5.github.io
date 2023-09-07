@@ -398,7 +398,7 @@ img {
         .portfolio__box:nth-child(4) {
           flex-direction: column; } }
       .portfolio__box:nth-child(4) .portfolio__img {
-        background-color: var(--color-main); }
+        background-color: rgb(250, 5, 5) }
       .portfolio__box:nth-child(4) .portfolio__link {
         color: var(--color-main);
         border-color: var(--color-main); }
